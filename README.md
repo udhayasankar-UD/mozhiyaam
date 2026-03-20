@@ -9,3 +9,6 @@ Key features:
 - Engage with the community through comments and discussions.
 - play tamil related games and learn more
 
+
+  The Project Licence is MIT
+
